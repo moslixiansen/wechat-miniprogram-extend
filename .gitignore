@@ -1,0 +1,12 @@
+.idea
+.vscode
+.wing
+.jshintrc
+
+node_modules
+miniprogram_npm
+
+project.config.json
+sitemap.json
+
+env.js
